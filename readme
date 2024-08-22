@@ -1,0 +1,3 @@
+Compando para rodar docker em background
+
+- docker compose up -d // o -d deixa rodando em background
